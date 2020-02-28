@@ -19,8 +19,8 @@ with open('requirements.txt') as f:
 #     sys.exit(1)
 
 setup(
-    name='spherecluster',
-    version='0.1.7',
+    name='hsspherecluster',
+    version='0.1.7-fork',
     description='Clustering on the unit hypersphere in scikit-learn.',
     author='Jason Laska',
     author_email='jason@claralabs.com',
