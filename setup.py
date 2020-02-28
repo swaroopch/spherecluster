@@ -20,7 +20,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='hsspherecluster',
-    version='0.1.7-fork',
+    version='0.1.7',
     description='Clustering on the unit hypersphere in scikit-learn.',
     author='Jason Laska',
     author_email='jason@claralabs.com',
